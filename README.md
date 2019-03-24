@@ -1,21 +1,19 @@
-# vue-ele
+# vue-elm
 
-> A Vue.js project
+## 升级
 
-## Build Setup
+Vue 2.x 升级之后的踩坑作
 
-``` bash
-# install dependencies
-npm install
+- 关于购物车添加的组件通信修改
 
-# serve with hot reload at localhost:8080
-npm run dev
+- 关于小球飞入购物车钩子函数的修改
 
-# build for production with minification
-npm run build
+- 关于`1.x`不兼容代码的修改
 
-# build for production and view the bundle analyzer report
-npm run build --report
-```
+## 运行
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+### $ git clone
+
+### $ npm install
+
+### $ npm ruh dev
